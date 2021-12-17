@@ -2,7 +2,7 @@
 
 
 ## Prerequisites
-python 3
+[python 3](https://www.python.org/downloads/)
 
 ## Program
 Il programma rimuove l'autore dalle canzoni (se il formato del file è come il seguente: `AUTORE - TITOLO`) semplificado la visualizzazione del titolo da alcuni dispositivi come lettori musicali con display limitato come quelli da DJing datati.
